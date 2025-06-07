@@ -3,10 +3,10 @@ export default function robots() {
       rules: [
         {
           userAgent: '*',
-          allow: '/', // Allow all bots to crawl the entire site
+          allow: '/',
         },
       ],
-      sitemap: 'https://parther.in/sitemap.xml', // Replace with your actual sitemap URL
+      sitemap: 'https://parther.in/sitemap.xml',
     }
   }
   

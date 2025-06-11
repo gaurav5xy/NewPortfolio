@@ -42,9 +42,7 @@ const About = () => {
           <h5 className="mb-1 md:mb-3">Socials</h5>
           <ul className="flex gap-3 md:gap-5">
             <li>
-              <Link href="https://blog.parther.in/">
-                Blog
-              </Link>
+              <Link href="https://blog.parther.in/">Blog</Link>
             </li>
             <li>
               <Link href="https://github.com/parthergk">GitHub</Link>
@@ -58,7 +56,6 @@ const About = () => {
                 Linkedin
               </Link>
             </li>
-            
           </ul>
         </div>
       </div>

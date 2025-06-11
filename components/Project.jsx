@@ -11,8 +11,14 @@ const Project = ({ index, title, href, setModel }) => {
         return "justify-center";
       case 2:
         return "justify-end";
+      case 3:
+        return "justify-start";
+      case 4:
+        return "justify-center";
+      case 5:
+        return "justify-end";
       default:
-        return "justify-start"; // Default for other projects
+        return "justify-start";
     }
   };
 

@@ -16,6 +16,7 @@ export const metadata = {
   robots: "index, follow",
   author: "Parther",
   metadataBase: new URL("https://parther.in"),
+  
   openGraph: {
     title: "Parther - Freelance Designer & Developer",
     description:

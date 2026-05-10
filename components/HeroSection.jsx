@@ -103,7 +103,7 @@ export default function HeroSection({ offset = 1200 }) {
               willChange: "transform, opacity", // Smoother transition
             }}
           >
-            <Link href="https://www.instagram.com/parther_gk/" aria-label="Instagram Profile">Instagram</Link>
+            <Link href="https://www.instagram.com/parther.in/" aria-label="Instagram Profile">Instagram</Link>
           </motion.li>
           <motion.li
             style={{
